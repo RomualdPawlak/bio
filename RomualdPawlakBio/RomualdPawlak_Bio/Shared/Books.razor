@@ -1,0 +1,13 @@
+﻿@inherits BooksBase
+
+<h3>Książki</h3>
+
+@if (_books != null)
+{
+    <div class="book-group">
+    @foreach (var book in _books)
+    {
+        <BookItem book="@book" />
+    }
+    </div>
+}
