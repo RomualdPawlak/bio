@@ -3,12 +3,333 @@
         "title": "Podarować słońce",
         "coverMini": "images/cover_mini_podarowac_niebo.jpg",
         "publishDate": "2020-12-01",
-        "publisherLink": "https://wydawnictwoix.pl/produkt/romuald-pawlak-podarowac-niebo/"
+        "publishYear": 2020,
+        "publisherLink": "https://wydawnictwoix.pl/produkt/romuald-pawlak-podarowac-niebo/",
+        "category": 1,
+        "awards": [
+            {
+                "awardType": 1,
+                "awardName": "Nowa Fantastyka",
+                "category": "książka roku 2020",
+                "link": "https://wydawca.com.pl/2021/03/27/nagrody-nowej-fantastyki-2021-nominacje/"
+            },
+            {
+                "awardType": 2,
+                "awardName": "Nagroda Żuławskiego",
+                "category": "Złote Wyróżnienie",
+                "link": "https://www.nagroda-zulawskiego.pl/o-nagrodzie/wyniki/wyniki-glosowania-jury-w-2021-roku"
+            }
+        ]
     },
     {
         "title": "Pusty Ogród",
         "coverMini": "images/cover_mini_pusty_ogrod.jpg",
         "publishDate": "2021-09-30",
-        "publisherLink": "https://wydawnictwoix.pl/produkt/romuald-pawlak-pusty-ogrod/"
+        "publishYear": 2021,
+        "publisherLink": "https://wydawnictwoix.pl/produkt/romuald-pawlak-pusty-ogrod/",
+        "category": 1
+    },
+    {
+        "title": "Inne okręty",
+        "coverMini": "images/romuald_pawlak_runa_inne_okrety.jpeg",
+        "publishYear": 2003,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Inne_okr%C4%99ty",
+        "category": 1
+    },
+    {
+        "title": "Inne okręty",
+        "coverMini": "images/romuald_pawlak_erica_inne_okrety.jpeg",
+        "publishYear": 2011,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Inne_okr%C4%99ty",
+        "category": 1
+    },
+    {
+        "title": "Rycerz bezkonny",
+        "coverMini": "images/romuald_pawlak_runa_rycerz_bezkonny.jpeg",
+        "publishYear": 2004,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Rycerz_bezkonny",
+        "category": 1
+    },
+    {
+        "title": "Rycerz bezkonny",
+        "coverMini": "images/romuald_pawlak_sumptibus_rycerz_bezkonny.jpeg",
+        "publishYear": 2014,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Rycerz_bezkonny",
+        "category": 1
+    },
+    {
+        "title": "Czarem i smokiem",
+        "coverMini": "images/romuald_pawlak_fabryka_czarem_smokiem.jpeg",
+        "publishYear": 2005,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Czarem_i_smokiem",
+        "category": 1
+    },
+    {
+        "title": "Wojna balonowa",
+        "coverMini": "images/romuald_pawlak_fabryka_wojna_balonowa.jpeg",
+        "publishYear": 2006,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Wojna_balonowa",
+        "category": 1
+    },
+    {
+        "title": "Wilcza krew, smoczy ogień",
+        "coverMini": "images/romuald_pawlak_fabryka_wilcza_krew_smoczy_ogień.jpeg",
+        "publishYear": 2006,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Wilcza_krew,_smoczy_ogie%C5%84",
+        "category": 1
+    },
+    {
+        "title": "Bo to jest wojna, rzeź i rąbanka",
+        "coverMini": "images/romuald_pawlak_fabryka_wojna_rzez_rabanka.jpeg",
+        "publishYear": 2007,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Bo_to_jest_wojna,_rze%C5%BA_i_r%C4%85banka",
+        "category": 1
+    },
+    {
+        "title": "Armia ślepców",
+        "coverMini": "images/romuald_pawlak_redhorse_armia_slepcow.jpeg",
+        "publishYear": 2007,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Armia_%C5%9Blepc%C3%B3w",
+        "category": 1
+    },
+    {
+        "title": "Smocze gniazdo",
+        "coverMini": "images/romuald_pawlak_fabryka_smocze_gniazdo.jpeg",
+        "publishYear": 2008,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Smocze_gniazdo",
+        "category": 1
+    },
+    {
+        "title": "Cabezano, król karłów",
+        "coverMini": "images/romuald_pawlak_videograf_cabezano.jpeg",
+        "publishYear": 2010,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Cabezano._Kr%C3%B3l_kar%C5%82%C3%B3w",
+        "category": 1
+    },
+    {
+        "title": "Póki pies nas nie rozłączy",
+        "coverMini": "images/romuald_pawlak_nasza_ksiegarnia_poki_pies.jpg",
+        "publishYear": 2011,
+        "publisherLink": "https://www.empik.com/poki-pies-nas-nie-rozlaczy-pawlak-romuald,prod59640115,ksiazka-p",
+        "category": 1
+    },
+    {
+        "title": "Związek do remontu",
+        "coverMini": "images/romuald_pawlak_nasza_ksiegarnia_zwiazek_do_remontu.jpg",
+        "publishYear": 2011,
+        "publisherLink": "https://www.empik.com/zwiazek-do-remontu-pawlak-romuald,p1043958493,ksiazka-p",
+        "category": 1
+    },
+    {
+        "title": "Krew nie woda",
+        "coverMini": "images/romuald_pawlak_wab_krew_nie_woda.jpg",
+        "publishYear": 2015,
+        "publisherLink": "https://www.gwfoksal.pl/krew-nie-woda-romuald-pawlak-sku51708c9bbe1e2ad2cc1a.html",
+        "category": 1
+    },
+    {
+        "title": "Miłek z Czarnego Lasu",
+        "coverMini": "images/romuald_pawlak_powergraph_milek.jpg",
+        "publishYear": 2007,
+        "publisherLink": "https://www.empik.com/milek-z-czarnego-lasu-pawlak-roman,prod350022,ksiazka-p",
+        "category": 2,
+        "adaptations": [
+            {
+                "adaptationType": 1,
+                "contribution": "scenariusz",
+                "link": "http://tvsfa.com/8514-milek-z-czarnego-lasu/"
+            }
+        ],
+        "awards": [
+            {
+                "awardType": 2,
+                "awardName": "Nagroda IBBY",
+                "category": "Najlepsza Książka dla Dzieci roku 2008",
+                "link": "http://www.ibby.pl/?page_id=2046"
+            }
+        ]
+    },
+    {
+        "title": "Czapka Holmesa",
+        "coverMini": "images/romuald_pawlak_akapit_press_czapka_holmesa.jpg",
+        "publishYear": 2009,
+        "publisherLink": "https://www.empik.com/czapka-holmesa-pawlak-roman,p1006329191,ksiazka-p?fromSearchQuery=czapka+holmesa",
+        "category": 2,
+        "awards": [
+            {
+                "awardType": 1,
+                "awardName": "Nagroda Polskiego Towarzystwa Wydawców Książek 2010",
+                "category": "książka dla dzieci",
+                "link": "https://ptwk.pl/images/pdf/doc/WYNIKI_2010.pdf"
+            },
+            {
+                "awardType": 1,
+                "awardName": "Nagroda im. Kornela Makuszyńskiego 2010",
+                "category": "",
+                "link": ""
+            }
+        ]
+    },
+    {
+        "title": "Przeskoczyć przez ogień",
+        "coverMini": "images/romuald_pawlak_akapit_press_przeskoczyc_przez_ogien.jpg",
+        "publishYear": 2010,
+        "publisherLink": "https://www.empik.com/przeskoczyc-przez-ogien-pawlak-roman,prod57795569,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Lena w chmurach",
+        "coverMini": "images/romuald_pawlak_akapit_press_lena_w_chmurach.jpg",
+        "publishYear": 2010,
+        "publisherLink": "https://www.empik.com/dziura-w-sercu-pawlak-roman,p1046105056,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Dziura w sercu",
+        "coverMini": "images/romuald_pawlak_nasza_ksiegarnia_dziura_w_sercu.jpg",
+        "publishYear": 2012,
+        "publisherLink": "https://www.empik.com/dziura-w-sercu-pawlak-roman,p1046105056,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Czaruś, pies z charakterem",
+        "coverMini": "images/romuald_pawlak_akapit_press_czarus.jpg",
+        "publishYear": 2014,
+        "publisherLink": "https://www.empik.com/czarus-pies-z-charakterem-pawlak-romek,p1088281781,ksiazka-p?fromSearchQuery=czaru%C5%9B+pies+z+charakterem",
+        "category": 2
+    },
+    {
+        "title": "Piotrek, Ulpik i tajemnica komputera",
+        "coverMini": "images/romuald_pawlak_akapit_press_ulpik.jpg",
+        "publishYear": 2015,
+        "publisherLink": "https://www.empik.com/piotrek-ulpik-i-tajemnica-komputera-pawlak-romek,p1107531709,ebooki-i-mp3-p",
+        "category": 2
+    },
+    {
+        "title": "Biało-czerwone marzenia. Od rozbitego żyrandola do finałów Euro",
+        "coverMini": "images/romuald_pawlak_rebis_bialo_czerwone_marzenia.jpg",
+        "publishYear": 2015,
+        "publisherLink": "https://www.empik.com/bialo-czerwone-marzenia-od-rozbitego-zyrandola-do-finalow-euro-pawlak-romek,p1116751068,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Biało-czerwone mistrzostwa. Misja Euro 2016",
+        "coverMini": "images/romuald_pawlak_rebis_bialo_czerwone_mistrzostwa.jpg",
+        "publishYear": 2016,
+        "publisherLink": "https://www.empik.com/bialo-czerwone-mistrzostwa-misja-euro-2016-pawlak-romek,p1124442086,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Być jak Ignacy",
+        "coverMini": "images/romuald_pawlak_rebis_ignacy.jpg",
+        "publishYear": 2016,
+        "publisherLink": "https://www.empik.com/byc-jak-ignacy-pawlak-romek,p1130558528,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Liga Mistrzów. Magia futbolu",
+        "coverMini": "images/romuald_pawlak_rebis_liga_mistrzow.jpg",
+        "publishYear": 2016,
+        "publisherLink": "https://www.empik.com/liga-mistrzow-magia-futbolu-pawlak-romek,p1130148491,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Klątwa Ezechiela",
+        "coverMini": "images/romuald_pawlak_akapit_press_klatwa_ezechiela.jpg",
+        "publishYear": 2016,
+        "publisherLink": "https://www.empik.com/klatwa-ezechiela-pawlak-romek,p1107830743,ksiazka-p?fromSearchQuery=kl%C4%85twa+ezechiela",
+        "category": 2
+    },
+    {
+        "title": "Dziewczyna z lustra",
+        "coverMini": "images/romuald_pawlak_akapit_press_dziewczyna_z_lustra.jpg",
+        "publishYear": 2017,
+        "publisherLink": "https://www.akapit-press.pl/ksiazki-dla-mlodziezy/dziewczyna-z-lustra-305.html",
+        "category": 2
+    },
+    {
+        "title": "Czy muszę się zakochać, czyli po co komu miłość",
+        "coverMini": "images/romuald_pawlak_macedu_zakochac.jpg",
+        "publishYear": 2017,
+        "publisherLink": "https://ksiegarnia-edukacyjna.pl/czy-musze-sie-zakochac-czyli-po-co-komu-milosc.html",
+        "category": 2
+    },
+    {
+        "title": "Czy będę emerytem, czyli po co komu starość",
+        "coverMini": "images/romuald_pawlak_macedu_emeryt.jpg",
+        "publishYear": 2017,
+        "publisherLink": "https://ksiegarnia-edukacyjna.pl/czy-bede-emerytem-czyli-po-co-komu-starosc.html",
+        "category": 2
+    },
+    {
+        "title": "Czy będę emerytem, czyli po co komu starość",
+        "coverMini": "images/romuald_pawlak_macedu_emeryt.jpg",
+        "publishYear": 2017,
+        "publisherLink": "https://ksiegarnia-edukacyjna.pl/czy-bede-emerytem-czyli-po-co-komu-starosc.html",
+        "category": 2
+    },
+    {
+        "title": "Czy muszę pracować, czyli po co komu pieniądze",
+        "coverMini": "images/romuald_pawlak_macedu_praca.jpg",
+        "publishYear": 2017,
+        "publisherLink": "https://ksiegarnia-edukacyjna.pl/czy-musze-pracowac-czyli-po-co-komu-pieniadze.html",
+        "category": 2
+    },
+    {
+        "title": "Czy muszę chodzić do szkoły, czyli po co komu nauka",
+        "coverMini": "images/romuald_pawlak_macedu_szkola.jpg",
+        "publishYear": 2017,
+        "publisherLink": "https://www.empik.com/czy-musze-chodzic-do-szkoly-czyli-po-co-komu-nauka-pawlak-romek,p1144178949,ksiazka-p",
+        "category": 2
+    },
+    {
+        "title": "Koniec ery głodu",
+        "coverMini": "images/romuald_pawlak_apax_wizje_alternatywne.jpeg",
+        "publishYear": 1990,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Wizje_alternatywne",
+        "category": 3
+    },
+    {
+        "title": "Jak liście z drzew",
+        "coverMini": "images/romuald_pawlak_fabryka_tempus_fugit_2.jpeg",
+        "publishYear": 2007,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Tempus_fugit",
+        "category": 3
+    },
+    {
+        "title": "Wakacjusz",
+        "coverMini": "images/romuald_pawlak_replica_zatrute_piora.webp",
+        "publishYear": 2012,
+        "publisherLink": "https://replika.eu/tytul/zatrute-piora-antologia-kryminalu/",
+        "category": 3
+    },
+    {
+        "title": "Lot",
+        "coverMini": "images/romuald_pawlak_almaz_tarnowskie_gory_2.jpg",
+        "publishYear": 2020,
+        "publisherLink": "https://katedra.nast.pl/ksiazka/16973/antologia-Tarnowskie-Gory-Fantastycznie-2/",
+        "category": 3
+    },
+    {
+        "title": "Reputacja",
+        "coverMini": "images/romuald_pawlak_stalker_mars.jpg",
+        "publishYear": 2021,
+        "publisherLink": "http://encyklopediafantastyki.pl/index.php?title=Mars_(Antologia)",
+        "category": 3
+    },
+    {
+        "title": "Wniebowstąpienie Menela",
+        "coverMini": "",
+        "publishYear": 1991,
+        "publisherLink": "https://zajdel.art.pl/nominacje_199x.html",
+        "category": 3,
+        "awards": [
+            {
+                "awardType": 1,
+                "awardName": "Nagroda Fandomu im. Janusza Zajdla",
+                "category": "Opowiadanie",
+                "link": "https://zajdel.art.pl/nominacje_199x.html"
+            }
+        ]
     }
 ]
